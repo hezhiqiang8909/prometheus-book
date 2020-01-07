@@ -1,5 +1,7 @@
 # 介绍
 
+博客作者：联系请[点击](https://k8sadmin.info/lian-xi-zuo-zhe)，搬运不易，希望请作者喝咖啡，可以联系博客作者
+
 * [全书组织](introduction.md)
 
 ## Part I - Prometheus基础
